@@ -11,13 +11,12 @@ __*Python in education*__
 __*English*__
 
 ## Abstract
-In the last fews years, in Cambodia has rapidly increased in computer science and STEM education enrollments. There are so many tech startup in different sector start to appear which the demand of tech skills is at high peak. Cambodia education both in public and private school started to adopted the STEM concept (Science, Technology, Engineering and Mathematics), yet there is still lack of supports from the community to help boost this society impact.
-So we'd love to start a Python community in Cambodia to gater the local experienced developer in Python to unite in order to encourge, motivate and support the young generation.
-Also, in the future we're planning to prepare and organize the PyCon in Cambodia.
+In recent years, Cambodia has rapidly increased in computer science. There are so many tech startups and the demand for tech skills is at a high peak. Cambodia's education both in public and private schools started to adopt the STEM, yet there is still a lack of support from the community.
+So we'd love to start a Python community in Cambodia to gather local developer to support young generation.
 
 ## Description
-
-Because I strongly beleive that in the very short future ahead, tech skills would be mandantory for every individual to work and live in the modern tech society.
+Because I strongly beleive that in the very short future ahead, tech skills would be mandantory for every individual to work and live in the modern tech society. That is the main reason that urge us to start running, support and contribute to the society by encouraging, motivating and support the young learner. I've attended and participated in many events and program before, also I've volunteer in few tutoring program specific on tech and computer science. I see there are a lot of struggle and requires help from those student and younger to guide them.
+Creating the Python community is not only our goal, also in the future, we're planning to prepare and organize the PyCon in Cambodia.
 
 ## Program
 - Self introduction (1 minute)
@@ -48,14 +47,14 @@ Because I strongly beleive that in the very short future ahead, tech skills woul
 - Talk in detail of existing tech related community in Cambodia
 
 ## Why did I choose this topic?
-I want to see my country to involve and grow in technology starting from lower education. There are many ways to support the community and young generation, but for me personally I can start doing the contribution through the community to keep encourage youngster to persue in tech skills even they're interest in becoming another profession, I want them to consider computer science as their secondary knowledge foundation.
+I want to see my country involved and grow in technology starting from lower education. There are many ways to support the community and young generation, but I can start doing contributions to the community to keep encouraging the youngster to pursue tech skills even if they're interested in becoming another profession, I want them to consider computer science as their secondary knowledge foundation.
 
 ## What the audience will learn and know-how from this topic
-- How is it so important for the tech play a role in development country
-- Basic understanding about STEM education program
-- Grasp an overview of situation of tech related in Cambodia
+- How is it so important for the tech to play a role in the development country
+- Basic understanding of the STEM education program
+- Grasp an overview of the situation of tech-related in Cambodia
 - Fundamental steps to start the local community
-- How to enage, sustain the community
+- How to engage, and sustain the community
 
 ## Prior knowledge the audience should have
 - Interested in tech
