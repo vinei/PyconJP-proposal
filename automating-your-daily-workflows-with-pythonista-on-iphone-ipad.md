@@ -52,20 +52,19 @@ This is just one example and of course, I want to use this to motivate people to
 - Summary (2 minutes)
 
 ## Things that not cover in this session
-- Explain in detail of each Pythonista IOS-specific and third party modules
+- Explain in detail each Pythonista IOS-specific and third-party modules
 - Teaching about Python programming or syntax
 - Explain in detail of demonstration implementation logic
 
 ## Why did I choose this topic?
-Because automation is really an interesting topic and now with the capability to do it from their Iphone/Ipad, this will be so much helpful and fun at the same time. Which I think this will help to boost and motivate the young leaner to explore more on Python by starting right from their Iphone/Ipad.
-Also the utimate goal is that I and the team, we'd like to start a Python community in Cambodia and host PyCon Cambodia next year or next next year!
+Because automation is an interesting topic and now with the capability to do it from their iPhone/iPad, this will be so much helpful and fun at the same time. I think this will help to boost and motivate the young learner to explore more on Python by starting right from their iPhone/iPad. Also, the ultimate goal is that I and the team, we'd like to start a Python community in Cambodia and host PyCon Cambodia next year or next next year!
 
 ## What the audience will learn and know-how from this topic
-- Know how to write and run Python program in their Iphone/Ipad.
+- Know how to write and run Python programs on their iPhone/iPad.
 - Accessing useful data with Pythonista IOS-specific modules.
-- Run their program with Iphone/Ipad app icon, extension, Siri.
+- Run their program with iPhone/iPad app icon, extension, and Siri.
 - Having fun with automation from their mobile phone.
-- They will come up with some great idea to automate their workflows.
+- They will come up with some great ideas to automate their workflows.
 
 ## Prior knowledge the audience should have
 - Basic Python syntax
