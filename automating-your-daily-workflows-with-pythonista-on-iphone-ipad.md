@@ -2,7 +2,7 @@
 __*Automating your daily workflows with Pythonista on Iphone/Ipad*__
 
 ## Session type
-__*20 Minutes talk*__
+__*30 Minutes talk*__
 
 ## Track
 __*Niche technique*__
@@ -25,36 +25,37 @@ This is just one of the example and of course I want to use this to motiavte peo
 - Overview of the session (1 minute)
 - Motivation (1 minute)
 - Introducing to what is Pythonista? (1 minute)
-- Talking about Pythonista modules (5 minutes)
-    - Modules that provide iOS-specific functionality (4 minutes)
-        - Clipboard
-        - Contact
-        - Motion
-        - Notification
-        - Photos
-        - Speech
-        - Reminders
-    - Popular third party modules (1 minute)
-        - Requests – HTTP for Humans
-        - Qrcode — Pure python QR Code generator
-- Talking about Pythonista URL Scheme (2 minutes)
-    - Basics
-    - Command-line Arguments and Python Version
-    - Launching Other Apps
-- About app extensions and shortcuts (1 minute)
-    - Home Screen Icon and Pythonista URL
-- Talking about Pythonista’s user interface (1 minute)
-    - Script library, code editor and interactive prompt
-- Talking about Cloud function invokation with Pythonista (1 minutes)
-- Real scenario demonstration (4 minutes)
-    - Breifly explain about the demonstration steps and expected result (1 minutes)
-    - Demonstrate the real example automation (3 minutes)
+- Talking about Pythonista modules (9 minutes)
+    - Modules that provide iOS-specific functionality (7 minutes)
+        - Clipboard (1 minute)
+        - Contact (1 minute)
+        - Motion (1 minute)
+        - Notification (1 minute)
+        - Photos (1 minute)
+        - Speech (1 minute)
+        - Reminders (1 minute)
+    - Popular third party modules (2 minutes)
+        - Requests – HTTP for Humans (1 minute)
+        - Qrcode — Pure python QR Code generator (1 minute)
+- Talking about Pythonista URL Scheme (3 minutes)
+    - Basics (1 minute)
+    - Command-line Arguments and Python Version (1 minute)
+    - Launching Other Apps (1 minute)
+- About app extensions and shortcuts (2 minutes)
+    - Home Screen Icon (1 minute)
+    - Pythonista URL (1 minute)
+- Talking about Pythonista’s user interface (2 minutes)
+    - Script library, code editor and interactive prompt (2 minutes)
+- Talking about Cloud function invokation with Pythonista (2 minutes)
+- Real scenario demonstration (6 minutes)
+    - Breifly explain about the demonstration steps and expected result (2 minute)
+    - Demonstrate the real example automation (4 minutes)
 - Summary (2 minutes)
 
 ## Things that not cover in this session
 - Explain in detail of each Pythonista IOS-specific and third party modules
 - Teaching about Python programming or syntax
-- Explain the detail of demonstration implementation
+- Explain in detail of demonstration implementation logic
 
 ## Why did I choose this topic?
 Because automation is really an interesting topic and now with the capability to do it from their Iphone/Ipad, this will be so much helpful and fun at the same time. Which I think this will help to boost and motivate the young leaner to explore more on Python by starting right from their Iphone/Ipad.
