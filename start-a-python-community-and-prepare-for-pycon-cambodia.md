@@ -2,7 +2,7 @@
 __*Start a Python Community and Prepare for PyCon Cambodia*__
 
 ## Session type
-__*30 Minutes talk*__
+__*20 Minutes talk*__
 
 ## Track
 __*Python in education*__
@@ -22,23 +22,23 @@ Because I strongly beleive that in the very short future ahead, tech skills woul
 ## Program
 - Self introduction (1 minute)
 - Overview of the session (1 minute)
-- Share the current tech education and knowledge in Cambodia (7 minutes)
+- Share the current tech education and knowledge in Cambodia (4 minutes)
     - Breifly about what is STEM education? (1 minute)
-    - Talk about tech education in elementary, primary and high school (2 minutes)
-    - Talk about the computer science major university (2 minutes)
-    - Talk about the level of knowledge of general people toward technology lifestyle (2 minutes)
+    - Talk about tech education in elementary, primary and high school (1 minute)
+    - Talk about the computer science major university (1 minute)
+    - Talk about the level of knowledge of general people toward technology lifestyle (1 minute)
 - Showcase of fews tech startup in Cambodia and its impact on the society (2 minutes)
-- Share about our initial step to ignite the Python community in Cambodia (13 minutes)
-    - How we're going to start a community (2 minutes)
-    - How we're going to gather local both experienced and unexpericed tech people (2 minutes)
-    - The plan to interests younger in joining the community (6 minutes)
-        - Start the challenge program or event (2 minutes)
-        - Initiate experience sharing session (2 minutes)
-        - How we keep guiding and support the community (2 minutes)
-    - What should we do to keep the community running with the concept, community run by the members not the creator or core member. (3 minutes)
+- Share about our initial step to ignite the Python community in Cambodia (7 minutes)
+    - How we're going to start a community (1 minute)
+    - How we're going to gather local both experienced and unexpericed tech people (1 minute)
+    - The plan to interests younger in joining the community (3 minutes)
+        - Start the challenge program or event (1 minute)
+        - Initiate experience sharing session (1 minute)
+        - How we keep guiding and support the community (1 minute)
+    - What should we do to keep the community running with the concept, community run by the members not the creator or core member. (2 minutes)
 - Talk about tech related community in Cambodia (2 minutes)
     - How we can learn and collaborate with other local community (2 minutes)
-- Breifly about future plan of PyCon in Cambodia (2 minutes)
+- Breifly about future plan of PyCon in Cambodia (1 minute)
 - Summary (2 minutes)
 
 ## Things that not cover in this session
